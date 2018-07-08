@@ -1,0 +1,37 @@
+body{
+    background-color:black;
+    color:white;
+}
+
+.header{
+    text-align: center;
+  
+}
+#start , #button , #start-again{
+    background-color: orange;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top:30px;
+}
+ #subwrapper{
+    margin-top:50px;
+    text-align: center;
+}
+
+
+h2 , h3 {
+  
+    text-align: center;
+    padding:10px;
+    font-size: 24px;
+    
+}
+#answerimg{
+    width: 250px;
+    height: 250px;
+    border: 2px solid white;
+    padding:10px;
+}
